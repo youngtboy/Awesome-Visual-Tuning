@@ -7,6 +7,9 @@ A paper list of visual tuning.
 
 # All Papers
 
+## 2021
+- **[LoRA]** LoRA: Low-Rank Adaptation of Large Language Models | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2106.09685) [`[code]`](https://github.com/microsoft/LoRA)
+
 ## 2022
 - **[VPT]** Visual Prompt Tuning | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2203.12119) [`[code]`](https://github.com/kmnp/vpt) 
 
