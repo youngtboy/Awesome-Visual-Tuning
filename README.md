@@ -16,4 +16,6 @@ A paper list of visual tuning.
 - **[AdaptFormer]** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2205.13535) [`[code]`](https://github.com/ShoufaChen/AdaptFormer) 
 
 ## 2023
+- **[E<sup>2</sup>VPT]** E<sup>2</sup>VPT: An Effective and Efficient Approach for Visual Prompt Tuning | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2307.13770) [`[code]`](https://github.com/ChengHan111/E2VPT) 
+
 - **[DVPT]** Dynamic Visual Prompt Tuning for Parameter Efficient Transfer Learning | **[PRCV'23]** | [`[paper]`](https://arxiv.org/abs/2309.06123) 
