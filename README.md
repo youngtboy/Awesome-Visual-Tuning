@@ -19,3 +19,5 @@ A paper list of visual tuning.
 - **[E<sup>2</sup>VPT]** E<sup>2</sup>VPT: An Effective and Efficient Approach for Visual Prompt Tuning | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2307.13770) [`[code]`](https://github.com/ChengHan111/E2VPT) 
 
 - **[DVPT]** Dynamic Visual Prompt Tuning for Parameter Efficient Transfer Learning | **[PRCV'23]** | [`[paper]`](https://arxiv.org/abs/2309.06123) 
+
+- **[ARC]** Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing | **[NIPS'23]** | [`[paper]`](https://arxiv.org/abs/2310.06234) [`[code]`](https://github.com/DavidYanAnDe/ARC)
