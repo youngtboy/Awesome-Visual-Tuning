@@ -20,6 +20,8 @@ A paper list of visual tuning.
 ## 2022
 - **[VPT]** Visual Prompt Tuning | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2203.12119) [`[code]`](https://github.com/kmnp/vpt) 
 
+- **[CoCoOp]** Conditional Prompt Learning for Vision-Language Models | **[CVPR'22]** | [`[paper]`](https://arxiv.org/abs/2203.05557) [`[code]`](https://github.com/KaiyangZhou/CoOp) 
+
 - **[AdaptFormer]** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2205.13535) [`[code]`](https://github.com/ShoufaChen/AdaptFormer) 
 
 - **[SSF]** Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.08823) [`[code]`](https://github.com/dongzelian/SSF)
