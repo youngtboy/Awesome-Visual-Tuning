@@ -13,6 +13,8 @@ A paper list of visual tuning.
 ## 2021
 - **[LoRA]** LoRA: Low-Rank Adaptation of Large Language Models | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2106.09685) [`[code]`](https://github.com/microsoft/LoRA)
 
+- **[BitFit/Bias] BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models | **[ACL'22]** | [`[paper]`](https://arxiv.org/abs/2106.10199) [`[code]`](https://github.com/benzakenelad/BitFit)
+
 ## 2022
 - **[VPT]** Visual Prompt Tuning | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2203.12119) [`[code]`](https://github.com/kmnp/vpt) 
 
