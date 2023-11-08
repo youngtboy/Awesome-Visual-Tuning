@@ -7,6 +7,9 @@ A paper list of visual tuning.
 
 # All Papers
 
+## 2019
+- **[Adapter]** Parameter-Efficient Transfer Learning for NLP | **[ICML'19]** | [`[paper]`](https://arxiv.org/abs/1902.00751) [`[code]`](https://github.com/google-research/adapter-bert)
+
 ## 2021
 - **[LoRA]** LoRA: Low-Rank Adaptation of Large Language Models | **[ICLR'22]** | [`[paper]`](https://arxiv.org/abs/2106.09685) [`[code]`](https://github.com/microsoft/LoRA)
 
