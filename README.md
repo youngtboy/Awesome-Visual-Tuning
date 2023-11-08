@@ -15,6 +15,8 @@ A paper list of visual tuning.
 
 - **[BitFit/Bias]** BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models | **[ACL'22]** | [`[paper]`](https://arxiv.org/abs/2106.10199) [`[code]`](https://github.com/benzakenelad/BitFit)
 
+- **[CoOp]** Learning to Prompt for Vision-Language Models | **[IJCV'22]** | [`[paper]`](https://arxiv.org/abs/2109.01134) [`[code]`](https://github.com/KaiyangZhou/CoOp)
+
 ## 2022
 - **[VPT]** Visual Prompt Tuning | **[ECCV'22]** | [`[paper]`](https://arxiv.org/abs/2203.12119) [`[code]`](https://github.com/kmnp/vpt) 
 
