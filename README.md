@@ -31,6 +31,8 @@ A paper list of visual tuning.
 
 - **[GatedPromptTuning]** Improving Visual Prompt Tuning for Self-supervised Vision Transformers | **[ICML'23]** | [`[paper]`](https://arxiv.org/abs/2306.05067) [`[code]`](https://github.com/ryongithub/GatedPromptTuning)
 
+- **[PVP]** PVP: Pre-trained Visual Parameter-Efficient Tuning | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2304.13639)
+
 - **[E<sup>2</sup>VPT]** E<sup>2</sup>VPT: An Effective and Efficient Approach for Visual Prompt Tuning | **[ICCV'23]** | [`[paper]`](https://arxiv.org/abs/2307.13770) [`[code]`](https://github.com/ChengHan111/E2VPT) 
 
 - **[DVPT]** Dynamic Visual Prompt Tuning for Parameter Efficient Transfer Learning | **[PRCV'23]** | [`[paper]`](https://arxiv.org/abs/2309.06123) 
