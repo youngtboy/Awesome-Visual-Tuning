@@ -26,6 +26,8 @@ A paper list of visual tuning.
 
 - **[SSF]** Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.08823) [`[code]`](https://github.com/dongzelian/SSF)
 
+- **[FacT]** FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer | **[AAAI23]** | [`[paper]`](https://arxiv.org/abs/2212.03145)
+
 ## 2023
 - **[RepAdapter]** Towards Efficient Visual Adaption via Structural Re-parameterization | **[arxiv'23]** | [`[paper]`](https://arxiv.org/abs/2302.08106) [`[code]`](https://github.com/luogen1996/RepAdapter)
 
