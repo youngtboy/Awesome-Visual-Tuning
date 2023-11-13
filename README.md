@@ -24,6 +24,8 @@ A paper list of visual tuning.
 
 - **[AdaptFormer]** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2205.13535) [`[code]`](https://github.com/ShoufaChen/AdaptFormer) 
 
+- **[NOAH]** Neural Prompt Search | **[arxiv'22]** | [`[paper]`](https://arxiv.org/abs/2206.04673) [`[code]`](https://github.com/ZhangYuanhan-AI/NOAH)
+
 - **[SSF]** Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning | **[NIPS'22]** | [`[paper]`](https://arxiv.org/abs/2210.08823) [`[code]`](https://github.com/dongzelian/SSF)
 
 - **[FacT]** FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer | **[AAAI23]** | [`[paper]`](https://arxiv.org/abs/2212.03145)
